@@ -1,4 +1,3 @@
-# LIfe Tracker 
 Last updated: March 30, 2025
 
 # Privacy Policy
