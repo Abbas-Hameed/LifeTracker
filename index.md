@@ -1,4 +1,4 @@
-<div style="max-width: 600px; margin: 0 auto; padding: 10px;">
+
 Last updated: March 30, 2025
 
 # Privacy Policy
@@ -20,4 +20,3 @@ This Application does not collect precise information about the location of your
 # Do third parties see and/or have access to information obtained by the Application?
 Since the Application does not collect any information, no data is shared with third partie
 
-</div>
